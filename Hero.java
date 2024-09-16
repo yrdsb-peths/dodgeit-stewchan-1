@@ -1,6 +1,6 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
 
-// The awesome Hero
+// Our hero
 public class Hero extends Actor
 {
     public void act()
